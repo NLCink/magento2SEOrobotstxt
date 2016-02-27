@@ -1,4 +1,4 @@
-# Magento 2 SEO Robots.txt by http://codingbasics.net
+# Magento 2 SEO Robots.txt by http://codingbasics.net - Free to use for all.
 # Directories & files
 Disallow: /wishlist/
 Disallow: /customer/
